@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Otávio Antonio
 
 ## Sobre Mim
-- 👨‍💻 Hoje sou um Desenvolvedor full stack
+- 👨‍💻 Sou um Desenvolvedor full stack
 - 💻 Elaborando projetos
 - 😄 Pronouns: ele/dele 
 
@@ -15,7 +15,7 @@
 
 ## Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/otavio-barbosa1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([linkedin.com/in/otavio-barbosa1](https://www.linkedin.com/in/otavio-barbosa1/))
 
 
 Obrigado pela visita, volte sempre! 😊

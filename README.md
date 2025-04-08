@@ -1,64 +1,63 @@
-<h1 align="center">👨‍💻 Otávio Antonio</h1>
+<div align="center">
+  
+  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+Ot%C3%A1vio+Antonio+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Welcome+to+my+Profile!+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFBB&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apaixonado+por+tecnologia;Criando+soluções+inteligentes" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/otavio-barbosa1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=otaviopereira10&style=for-the-badge&color=3b82f6" alt="Profile Views"/>
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-</p>
+## 🚀 About Me
 
----
+```typescript
+const otavio = {
+    role: "Full Stack Developer",
+    status: "Creating amazing projects 💻",
+    pronouns: "he/him",
+    code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
+    frameworks: ["React", "Angular", "Spring Boot"],
+    currentFocus: "Developing innovative solutions",
+    funFact: "I turn coffee into code ☕"
+};
+```
 
-## 🧠 Sobre Mim
-
-- 💡 Desenvolvedor Full Stack apaixonado por resolver problemas com código
-- 🔨 Sempre criando projetos inovadores
-- 🌱 Aprendendo algo novo todos os dias
-- 😄 Pronomes: ele/dele
-
----
-
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,angular,java,spring,bootstrap,idea,postgres&theme=light" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviopereira10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopereira10&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviopereira10&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=otaviopereira10&theme=nord&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviopereira10&theme=tokyo-night" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 📈 Estatísticas do GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaviopereira10&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopereira10&layout=compact&theme=radical" height="170"/>
+  <img src="https://raw.githubusercontent.com/otaviopereira10/otaviopereira10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  
+  ### Thanks for visiting! 😊
+  
+  ![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 </div>
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/otavio-barbosa1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
-</p>
-
-<p align="center"><b>Obrigado pela visita, volte sempre! 😊</b></p>

@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## 🚀 About Me
+
 <h1 align="center">👨‍💻 Otávio Antonio</h1>
 
 <p align="center">
@@ -20,6 +20,16 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
+## 🚀 About Me
+---
+
+
+- 💡 Desenvolvedor Full Stack apaixonado por resolver problemas com código
+- 🔨 Sempre criando projetos inovadores
+- 🌱 Aprendendo algo novo todos os dias
+- 😄 Pronomes: ele/dele
+
+---
 
 
 ## 🛠️ Tech Stack

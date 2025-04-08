@@ -10,18 +10,17 @@
 </div>
 
 ## 🚀 About Me
+<h1 align="center">👨‍💻 Otávio Antonio</h1>
 
-```typescript
-const otavio = {
-    role: "Full Stack Developer",
-    status: "Creating amazing projects 💻",
-    pronouns: "he/him",
-    code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
-    frameworks: ["React", "Angular", "Spring Boot"],
-    currentFocus: "Developing innovative solutions",
-    funFact: "I turn coffee into code ☕"
-};
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFBB&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apaixonado+por+tecnologia;Criando+soluções+inteligentes" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</p>
+
+
 
 ## 🛠️ Tech Stack
 
@@ -53,9 +52,6 @@ const otavio = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/otaviopereira10/otaviopereira10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
   
   ### Thanks for visiting! 😊
   

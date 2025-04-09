@@ -55,7 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=otaviopereira10&theme=nord&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Contribution Graph
+---
 
 <br>
 

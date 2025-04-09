@@ -57,11 +57,6 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=tokyonight" />
-</div>
-
 <br>
 
 <picture>

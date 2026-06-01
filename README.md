@@ -49,11 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviopereira10&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otaviopereira10&theme=nord&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
